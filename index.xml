@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01. Represje wobec palestyńskich studentów na izraelskich uczelniach</title>
+      <link>http://localhost:1313/raport/01_represje/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/raport/01_represje/</guid>
+      <description>&lt;h2 id=&#34;palestyńczycy-na-izraelskich-uniwersytetach&#34;&gt;Palestyńczycy na izraelskich uniwersytetach:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;represje-po-7-października&#34;&gt;Represje po 7 października&lt;/h3&gt;&#xA;&lt;p&gt;Po 7 października 2023 r. Izrael rozpoczął szeroko zakrojoną operację militarną w Strefie Gazy, uzasadniając ją odpowiedzią na brutalny atak Hamasu na izraelskich cywilów &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. W związku z tymi wydarzeniami palestyńscy obywatele Izraela doświadczyli nasilonych prześladowań politycznych oraz ograniczeń w zakresie wolności słowa i zgromadzeń. Te represje, realizowane przez rząd Izraela, instytucje państwowe oraz skrajnie prawicowe ugrupowania doprowadziły do sytuacji, w której Palestyńczycy z Izraela nie mogą swobodnie wyrażać swoich poglądów, nawet w Internecie, z obawy przed konsekwencjami. W efekcie, w samym Izraelu głosy sprzeciwu wobec wojny są skutecznie tłumione &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Image Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
